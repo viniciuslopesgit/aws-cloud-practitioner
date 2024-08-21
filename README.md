@@ -4,5 +4,6 @@ This repository is a collection of documents that help prepare for the Amazon AW
 https://aws.amazon.com
 
 
-- Important links: "\n"
+- Important links:
+  
 NIST: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf?lspt_context=gdpr
